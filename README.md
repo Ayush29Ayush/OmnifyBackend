@@ -37,6 +37,7 @@ Update `SECRET_KEY`, `DEBUG`, `ALLOWED_HOSTS`, and `TIME_ZONE` in the newly crea
 Run migrations and populate the database with initial data.
 
 ```bash
+cd ..
 python manage.py migrate
 python manage.py seed_data
 ```
