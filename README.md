@@ -26,7 +26,8 @@ pip install -r requirements.txt
 Copy the example environment file and edit it with your settings.
 
 ```bash
-cp .env.example .env
+cd fitness_studio/
+cp env.example .env
 ```
 
 Update `SECRET_KEY`, `DEBUG`, `ALLOWED_HOSTS`, and `TIME_ZONE` in the newly created `.env` file.
