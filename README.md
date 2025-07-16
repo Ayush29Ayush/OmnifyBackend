@@ -9,8 +9,8 @@ A Django REST Framework service for listing fitness classes and booking spots, s
 ### 1\. Clone & Enter Repository
 
 ```bash
-git clone <your-repository-url>
-cd fitness_studio
+git clone https://github.com/Ayush29Ayush/OmnifyBackend.git
+cd OmnifyBackend/
 ```
 
 ### 2\. Create Virtual Environment & Install Dependencies
